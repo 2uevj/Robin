@@ -8,13 +8,13 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['‪22231675561‬', ' 𝑹𝑶𝑩𝑰𝑵 ', true],
-  ['22231675561', ' 𝑹𝑶𝑩𝑰𝑵 ', true],
+  ['‪966541174042', ' 𝑹𝑶𝑩𝑰𝑵 ', true],
+  ['966541174042', ' 𝑹𝑶𝑩𝑰𝑵 ', true],
 ];
 
 global.xaxa = 'kana'
-global.suittag = ['22231675561', '22231675561'];
-global.prems = ['22231675561', '22231675561'];
+global.suittag = ['966541174042', '966541174042'];
+global.prems = ['966541174042', '966541174042'];
 
 global.packname = '𝓡𝓞𝓑𝓘𝓝 🧸 ';
 global.author = '★𝓡𝓞𝓑𝓘𝓝 🌺★';
